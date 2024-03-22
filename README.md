@@ -367,3 +367,9 @@ Despite its thoroughness, there are limitations to what this Behat test can achi
 <br>
 
 **_Understanding these limitations helps guide the overall testing strategy and ensures that appropriate testing methodologies are applied to address various aspects of software quality beyond functional correctness._**
+
+<br>
+
+### Test demo
+
+[![Test Demo](https://img.youtube.com/vi/FYkTj8MWgc8/maxresdefault.jpg)](https://www.youtube.com/embed/FYkTj8MWgc8)
